@@ -1,2 +1,2 @@
 # teacher-training-class
-Projek Pythin Coding Challenge
+Projek Python Coding Challenge
