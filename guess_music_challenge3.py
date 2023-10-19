@@ -22,8 +22,9 @@ def main():
     chance = 3
     score = 10
 
-    while x != guess:
-      while chance != 0:
+#selagi tekaan pemain tak sama dengan guess
+    while x != guess: 
+      while chance != 0:   #tekaan akan diteruskan sekiranya bilangan chance tak sama dengan 0
         guess = str(input("What music genre am I thinking of? "))
         
         if x == guess:
